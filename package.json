@@ -37,7 +37,7 @@
     "data-api-client": "1.2.0"
   },
   "peerDependencies": {
-    "knex": "^2.1.0"
+    "knex": "^3.1.0"
   },
   "devDependencies": {
     "@aws-cdk/aws-rds": "^1.161.0",
